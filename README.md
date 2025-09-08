@@ -1,4 +1,3 @@
-# FINAL_PROJECT_INTERSHIP
 # Privacy-Focused Notes App with Encryption
 
 A secure offline-first notes app where all notes are **encrypted with AES** before being stored locally.  
@@ -32,7 +31,7 @@ db.js
 Abstract:
 This project implements a secure offline-first note-taking application where all notes are encrypted before being saved. The aim is to provide privacy to users so that even if their storage is accessed, the notes remain unreadable without the password.
 
-## Tools Used
+Tools Used
 
 React.js for UI
 Tailwind CSS for styling
